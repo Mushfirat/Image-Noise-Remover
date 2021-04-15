@@ -3,7 +3,8 @@ Image Noise Remover
 
 This is a Autoencoder model prepared to remove noise from images of size 512x360
 
-![](preview.png)
+![](preview1.png)
+![](preview2.png)
 
 ## Setup
 
