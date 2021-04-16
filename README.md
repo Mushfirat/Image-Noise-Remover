@@ -10,7 +10,7 @@ The predicted image is a little blurry but is clearly better than the noisy one.
 ## Setup
 
 Download a lot of images from the internet, e.g. kaggle  
-Put some of those images in dataset/test & the rest in dataset/train
+Put some of those images in dataset/test & the rest in dataset/train  
 Name the images whatever you want
 
 
